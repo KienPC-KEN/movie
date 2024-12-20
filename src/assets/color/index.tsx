@@ -1,0 +1,15 @@
+export const Colors = {
+  Background: '#19171C',
+  TextTilte: '#FD6809',
+  Text: '#F2F2F2',
+  TextPlaceholder: '#D9D9D9',
+  MenuItem: '#C4C4C4',
+  IconSearch: '#CCCCCC',
+  TextTitleContent: '#E0E0E0',
+  BorderColor: '#333333',
+  BackgroundInactive: 'rgba(242, 242, 242, 0.1)',
+  BackgroundPopup: '#232027',
+  BackDropColor: 'rgba(0, 0, 0, 0.3)',
+  BackgroundIcon: 'rgba(28, 23, 23, 0.3)',
+  TextDurationColor: '#848484',
+};
